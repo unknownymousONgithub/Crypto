@@ -1,0 +1,9 @@
+{
+  "name": "BONK BOT",
+  "symbol": "BONK",
+  "description": "A trading bot for Solana.",
+  "image": "https://raw.githubusercontent.com/unknownymousONgithub/Crypto/main/Untitled%20design.png",
+  "extensions": {
+    "website": "https://www.bonkbot.io/"
+  }
+}
